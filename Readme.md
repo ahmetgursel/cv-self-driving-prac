@@ -10,11 +10,11 @@ This is a school project. Now it can only find the lines. In the following days,
 - venv 
 1. Open the folder in terminal where you want to download project and run these codes
 ```
-git clone https://github.com/ahmtgursel/self-driving-car.git
+git clone https://github.com/ahmtgursel/cv-self-driving-prac.git 
 ```
 2. open folder
 ```
-cd self-driving-car
+cd cv-self-driving-prac
 ```
 3. create venv
 ```
